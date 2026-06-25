@@ -1,5 +1,5 @@
 ---
-title: "TypeBubbleX: Banco de dados - Parte 2"
+title: "TypeBubbleX Devlog #04: Banco de dados - Parte 2"
 date: 2026-02-24
 categories: [TypeBubbleX]
 tags: [typebubblex, open-source, devlogs, godot-engine, scanlation, wireframe, database, orm]

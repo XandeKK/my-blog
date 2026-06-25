@@ -1,5 +1,5 @@
 ---
-title: "TypeBubbleX: Wireframe"
+title: "TypeBubbleX Devlog #02: Wireframe"
 date: 2026-02-10
 categories: [TypeBubbleX]
 tags: [typebubblex, open-source, devlogs, godot-engine, scanlation, wireframe]
@@ -103,4 +103,3 @@ Alguns wireframes, como o de typeset, ainda não foram feitos. Ele envolve muita
 Sei que este post teve pouco texto e poucas explicações detalhadas, mas é difícil descrever cada clique dessa fase. Vou compensar isso no próximo post sobre Banco de Dados, onde tentarei explicar cada tabela e coluna detalhadamente.
 
 Então é isso. Até a próxima!
-
